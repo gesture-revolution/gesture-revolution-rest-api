@@ -1,6 +1,6 @@
 {
   "name": "gesture-revolution-rest-api",
-  "version": "0.0.19",
+  "version": "0.0.1",
   "description": "Sample REST API scaffold built on Node.JS in TypeScript with restify and TypeORM (with Waterline and Sequelize support also).",
   "main": "main.js",
   "author": "Samuel Marks <samuel@offscale.io>",
@@ -30,6 +30,7 @@
     "restify-errors": "^6.0.0",
     "restify-validators": "https://api.github.com/repos/SamuelMarks/restify-validators-dist/tarball",
     "routes-merger": "https://api.github.com/repos/SamuelMarks/routes-merger-dist/tarball",
+    "slugify": "^1.3.0",
     "tv4": "^1.3.0",
     "typeorm": "^0.2.5",
     "uuid": "^3.2.1"
